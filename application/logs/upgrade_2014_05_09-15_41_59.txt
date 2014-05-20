@@ -1,0 +1,6 @@
+2014-05-09 15:51:22 : STARTED UPGRADE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2014-05-09 15:51:22 : Downloading latest version of ushahidi...
+2014-05-09 15:51:24 : ** Failed downloading.
+
+

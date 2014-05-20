@@ -1,0 +1,19 @@
+2014-05-02 18:15:14 : STARTED UPGRADE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2014-05-02 18:15:15 : Downloading latest version of ushahidi...
+2014-05-02 18:15:16 : Creating Directory - /home/mainstr1/public_html/dc/media/uploads/upgrade
+2014-05-02 18:15:17 : ** Failed downloading.
+
+
+2014-05-02 18:17:09 : STARTED UPGRADE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2014-05-02 18:17:10 : Downloading latest version of ushahidi...
+2014-05-02 18:17:11 : ** Failed downloading.
+
+
+2014-05-02 18:18:46 : STARTED UPGRADE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2014-05-02 18:18:47 : Downloading latest version of ushahidi...
+2014-05-02 18:18:48 : ** Failed downloading.
+
+
